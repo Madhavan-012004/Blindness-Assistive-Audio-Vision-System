@@ -3,7 +3,7 @@ import pyttsx3
 import speech_recognition as sr
 from ai21 import AI21Client
 from time import sleep
-client = AI21Client(api_key="4eT4o4XUrYxW3mJAoNkriN8ybuDpHZXK")
+client = AI21Client(api_key="Your API Key)
 key_buffer = []
 tts_engine = pyttsx3.init()
 
