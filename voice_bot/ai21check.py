@@ -1,6 +1,6 @@
 import requests
 
-AI21_API_KEY = "62570cac-8873-4259-ad8b-fee2f26fc75a"
+AI21_API_KEY = "Your API Key"
 AI21_API_URL = "https://api.ai21.com/studio/v1/j2-ultra/completion"
 
 def get_ai21_response(prompt):
