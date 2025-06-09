@@ -92,7 +92,7 @@ Please ensure your code follows the project’s coding standards and includes re
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact & Team
+## Contact & Team
 
 For any questions or feedback, please reach out to our team:
 
