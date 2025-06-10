@@ -50,6 +50,7 @@ Together, these objectives define a comprehensive, human-centered solution aimed
 
 **1. Object Detection Module**
 ![image](https://github.com/user-attachments/assets/aa5d020d-5979-49a8-aeff-273b88aa9e7f)
+
 The Object Detection Module is responsible for identifying and categorizing the various objects in the user's environment and conveying this information in real-time through audio feedback. At the heart of this module lies a camera integrated into the wearable headband, which continuously captures visual data. The captured video frames are processed by the Raspberry Pi using pre-trained object detection models such as YOLO (You Only Look Once) or MobileNet SSD, which are optimized for real-time performance on edge devices.
 
 The system is trained to recognize commonly encountered objects like vehicles, furniture, street signs, pedestrians, doors, staircases, and other environmental elements that are relevant to daily navigation. Upon identification, the object label is translated into a voice message that is relayed to the user through Bluetooth earpods.
