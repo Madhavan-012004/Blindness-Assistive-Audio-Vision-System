@@ -323,11 +323,8 @@ For any questions or feedback, please reach out to our team:
 
 - **Gnanesh Charlin A**  
   Email: gnanesh1charlin2@gmail.com  
-  GitHub: [GnaneshCharlin](https://github.com/GnaneshCharlin)  
-  LinkedIn: [linkedin.com/in/gnaneshcharlin](https://www.linkedin.com/in/gnaneshcharlin)
-
 - **Maadhavan M**
-  Email: madeepika001@gmail.com
+  Email: madhavanm.0108@gmail.com
 - **Ashraf Sheriff A**
   Email: aasharafsheriff@gmail.com
   
