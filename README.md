@@ -321,7 +321,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please reach out to our team:
 
-- **Gnanesh Charlin A**  
+- **Gnanesh Charlin A**
   Email: gnanesh1charlin2@gmail.com  
 - **Maadhavan M**
   Email: madhavanm.0108@gmail.com
